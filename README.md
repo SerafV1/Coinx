@@ -1,7 +1,7 @@
 CoinX Core integration/staging repository
 =====================================
 
-[![Build Status](https://travis-ci.org/CoinX-Project/CoinX.svg?branch=master)](https://travis-ci.org/Coinx-Project/CoinX) [![GitHub version](https://badge.fury.io/gh/CoinX-Project%2FPIVX.svg)](https://badge.fury.io/gh/CoinX-Project%2FCoinX)
+[![Build Status](https://travis-ci.com/SerafV1/Coinx.svg?branch=master)](https://travis-ci.com/SerafV1/Coinx) [![GitHub version](https://badge.fury.io/gh/CoinX-Project%2FPIVX.svg)](https://badge.fury.io/gh/CoinX-Project%2FCoinX)
 
 PIVX is an open source crypto-currency focused on fast private transactions with low transaction fees & environmental footprint.  It utilizes a custom Proof of Stake protocol for securing its network and uses an innovative variable seesaw reward mechanism that dynamically balances 90% of its block reward size between masternodes and staking nodes and 10% dedicated for budget proposals. The goal of PIVX is to achieve a decentralized sustainable crypto currency with near instant full-time private transactions, fair governance and community intelligence.
 - Anonymized transactions using the [_Zerocoin Protocol_](http://www.pivx.org/zpiv).
